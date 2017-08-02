@@ -4,7 +4,11 @@
   "description": "React.js environment setup",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
   "dependencies": {
+    "html-webpack-plugin": "^2.30.1",
     "path": "^0.12.7",
     "webpack": "^3.4.1",
     "webpack-dev-server": "^2.6.1"
