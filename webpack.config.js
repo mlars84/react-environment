@@ -1,7 +1,6 @@
 const path = require('path');
-
 module.exports = {
-  entry: './clients/index.js',
+  entry: './client/index.js',
   output: {
     path: path.resolve('dist'),
     filename: 'index_bundle.js'

@@ -15,6 +15,8 @@ $ yarn add webpack webpack-dev-server path
 
 $ touch webpack.config.js
 
-
 ## Built With
 React, Webpack, Babel, ES6, Yarn.
+
+## Acknowledgments
+- Joy Warugu and Ben Lauderbaugh for recommending ( https://github.com/benjlaud1 )
